@@ -1,0 +1,78 @@
+{
+    "name": "Airtable",
+    "description": "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18960-airtable.jpg",
+    "tags": [
+        "api provider",
+        "databases",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/airtable\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Airtable",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18960-airtable.jpg",
+            "humanURL": "https:\/\/airtable.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/airtable-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/airtable-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.airtable.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.airtable.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/airtable"
+        },
+        {
+            "type": "Email",
+            "url": "questions@airtable.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@airtable.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@airtable.com"
+        },
+        {
+            "type": "Email",
+            "url": "copyright@airtable.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Airtable"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/airtable"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/airtable.com\/"
+        }
+    ]
+}
